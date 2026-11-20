@@ -1,0 +1,2 @@
+# okumadefteri
+Okuma Defteri

@@ -563,5 +563,3 @@ button { cursor: pointer; }
   init();
 })();
 </script>
-
-</body></html>
